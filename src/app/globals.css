@@ -50,3 +50,5 @@ html{--page:#f5f7f6;--paper:#fff;--ink:#102c38;--muted:#60747d;--accent:#125366;
 .drawer-account-primary{margin:0 0 22px;padding:17px 0;border-block:1px solid var(--line)}.drawer-account-primary img{border-radius:50%;object-fit:cover}.drawer-account-primary .drawer-signout{font-size:11px;min-height:36px;justify-content:flex-start;color:var(--muted);margin-top:8px}.drawer-account-primary .drawer-google{background:var(--tint);padding:12px 15px;border-radius:14px}.drawer-account-primary .drawer-google img{border-radius:0}
 /* Solid sticky navigation; card arrows live above the title area. */
 .header{background:var(--paper)!important;backdrop-filter:none;-webkit-backdrop-filter:none;z-index:100}.destination-card .destination-arrow,.mag-destinations .destination-card .destination-arrow{top:20px;bottom:auto;inset-inline-end:20px}.destination-text h3{overflow-wrap:break-word}
+
+.interior-tour-frame{display:block;width:100%;height:640px;border:0;border-radius:14px;background:#102c38}@media(max-width:600px){.interior-tour-frame{height:70svh;min-height:520px;width:calc(100% + 20px);margin-inline:-10px}}
