@@ -1,4 +1,6 @@
-# Egypt, at your pace | مصر، على مهلك
+# egypti
+
+Live site: https://egypt-travel-guide-c9g.pages.dev
 
 A mobile-first, independent Egypt guide by Mohamed Alhinawi, for domestic travellers and international visitors.
 
