@@ -1,0 +1,67 @@
+{
+  "abu-simbel": {
+    "file": "abu-simbel",
+    "alt": {
+      "ar": "واجهة معبد نفرتاري الصغير بأبو سمبل",
+      "en": "The facade of the smaller Temple of Nefertari at Abu Simbel"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Ramsis,_Aswan_Governorate,_Egypt_-_panoramio.jpg",
+    "author": "youssef_alam",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "changes": "resized, WebP; card crop",
+    "captured": "23 September 2009 (original upload date)"
+  },
+  "philae": {
+    "file": "philae",
+    "alt": {
+      "ar": "معابد فيلة على جزيرة أجيليكا",
+      "en": "Philae temples on Agilkia Island"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:1977_bis_1980_wurde_der_Tempelkomplex_abgetragen_und_auf_einer_h%C3%B6her_gelegenen_Insel_wieder_aufgebaut._01.jpg",
+    "author": "Holger Uwe Schmitt",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "resized, WebP; card crop",
+    "captured": "12.-25.2025"
+  },
+  "hatshepsut": {
+    "file": "hatshepsut",
+    "alt": {
+      "ar": "معبد حتشبسوت بالدير البحري",
+      "en": "Hatshepsut temple at Deir al-Bahari"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Djeser-Djeseru.Hatshepsut%27s_temple.jpg",
+    "author": "Hamerani",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "resized, WebP; card crop",
+    "captured": "25 May 2015, 14:56:55"
+  },
+  "unfinished-obelisk": {
+    "file": "unfinished-obelisk",
+    "alt": {
+      "ar": "المسلة الناقصة في محاجر أسوان",
+      "en": "The Unfinished Obelisk in Aswan’s quarries"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Aswan_-_Unfinished_obelisk_-_2007.jpg",
+    "author": "Martin Strachoň (Bazi)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "resized, WebP; card crop",
+    "captured": "27 March 2007"
+  },
+  "luxor-temple": {
+    "file": "luxor-temple",
+    "alt": {
+      "ar": "الصرح والمسلة في معبد الأقصر",
+      "en": "Pylons and obelisk at Luxor Temple"
+    },
+    "source": "https://commons.wikimedia.org/wiki/File:Pylons_and_obelisk_Luxor_temple.JPG",
+    "author": "Ad Meskens",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "resized, WebP; card crop",
+    "captured": "10 August 2011"
+  }
+}
