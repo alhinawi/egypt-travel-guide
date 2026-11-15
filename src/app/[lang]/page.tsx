@@ -1,1 +1,1 @@
-import{Home}from'@/components/pages';export default function Page(){return <Home/>}
+import{MagazineHome}from'@/components/magazine-home';export default function Page(){return <MagazineHome/>}
