@@ -78,12 +78,5 @@ app.put('/api/saved',async c=>{
  await c.env.DB.batch([c.env.DB.prepare('DELETE FROM saved_items WHERE user_id=?').bind(user.id),...items.map(item=>c.env.DB.prepare('INSERT INTO saved_items(user_id,item_id,created_at) VALUES(?,?,?)').bind(user.id,item,Date.now()))]);
  return c.json({ok:true,items});
 });
-app.delete('/api/account',async c=>{
- const user=c.get('user');if(!user)return c.json({error:'Sign in required'},401);
- let body;try{body=await c.req.json()}catch{return c.json({error:'Invalid request'},400)}
- if(body.confirm!=='DELETE_MY_ACCOUNT')return c.json({error:'Explicit confirmation required'},422);
- await c.env.DB.batch([c.env.DB.prepare('DELETE FROM saved_items WHERE user_id=?').bind(user.id),c.env.DB.prepare('DELETE FROM sessions WHERE user_id=?').bind(user.id),c.env.DB.prepare('DELETE FROM users WHERE id=?').bind(user.id)]);
- deleteCookie(c,SESSION,{...cookieOptions});return c.json({ok:true});
-});
 app.notFound(c=>c.req.path.startsWith('/api/')?c.json({error:'Not found'},404):c.env.ASSETS.fetch(c.req.raw));
 export default app;
