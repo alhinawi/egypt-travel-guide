@@ -1,0 +1,743 @@
+[
+  {
+    "id": "luxor-three-day-program",
+    "destination": "luxor",
+    "title": {
+      "ar": "برنامج الأقصر في 3 أيام",
+      "en": "Three days of Luxor"
+    },
+    "days": [
+      {
+        "title": {
+          "ar": "معابد البر الشرقي",
+          "en": "East Bank temples"
+        },
+        "places": [
+          "karnak",
+          "luxor-temple"
+        ],
+        "note": {
+          "ar": "اختار بداية مبكرة تناسب مواعيد الدخول، وخد راحة بين المعبدين.",
+          "en": "Choose an early start that fits opening hours and take a break between temples."
+        },
+        "morning": {
+          "ar": "ابدأ بالكرنك، من غير محاولة تغطية كل ركن.",
+          "en": "Start at Karnak without trying to cover every corner."
+        },
+        "afternoon": {
+          "ar": "غدا وراحة بعيد عن الشمس، مع مساحة للانتقالات.",
+          "en": "Lunch and a break out of the sun, with room for transfers."
+        },
+        "evening": {
+          "ar": "معبد الأقصر لو موعده الحالي مناسب، أو انقله للصباح التالي.",
+          "en": "Luxor Temple if its current opening hours work, otherwise move it to the next morning."
+        },
+        "nightBase": "luxor"
+      },
+      {
+        "title": {
+          "ar": "المقابر والدير البحري",
+          "en": "Tombs and Deir al-Bahari"
+        },
+        "places": [
+          "valley-kings",
+          "hatshepsut"
+        ],
+        "note": {
+          "ar": "رتّب سائق أو نقل مرخّص للبر الغربي. المقابر الإضافية قد تحتاج تذاكر منفصلة.",
+          "en": "Arrange licensed West Bank transport. Additional tombs may require separate tickets."
+        },
+        "morning": {
+          "ar": "وادي الملوك مع اختيار عدد زيارات يناسب طاقتك.",
+          "en": "Valley of the Kings with a number of tombs that suits your energy."
+        },
+        "afternoon": {
+          "ar": "حتشبسوت بعد استراحة، أو اكتفِ بموقع واحد في الحر.",
+          "en": "Hatshepsut after a break, or keep to one site in hot weather."
+        },
+        "evening": {
+          "ar": "عشا ووقت حر. أي عرض أو نشاط إضافي بعد تأكيد مواعيده وتكلفته.",
+          "en": "Dinner and free time. Add a performance or activity only after confirming its schedule and cost."
+        },
+        "nightBase": "luxor"
+      },
+      {
+        "title": {
+          "ar": "متحف وختام مرن",
+          "en": "Museum and a flexible finish"
+        },
+        "places": [
+          "luxor-museum"
+        ],
+        "note": {
+          "ar": "الخطة بتنتهي في الأقصر. لو المغادرة بدري، انقل المتحف ليوم أول أو احذفه.",
+          "en": "The route ends in Luxor. If you leave early, move the museum to an earlier day or skip it."
+        },
+        "morning": {
+          "ar": "متحف الأقصر حسب موعد المغادرة وإتاحة الدخول.",
+          "en": "Luxor Museum if admission and your departure allow."
+        },
+        "afternoon": {
+          "ar": "غدا، استلام الشنط وانتقال مؤكد للحجز التالي.",
+          "en": "Lunch, collect bags and use your confirmed onward transfer."
+        },
+        "evening": {
+          "ar": "مغادرة أو ليلة إضافية بترتيب منفصل.",
+          "en": "Depart, or arrange an extra night separately."
+        },
+        "nightBase": null
+      }
+    ],
+    "program": {
+      "start": "luxor",
+      "end": "luxor",
+      "budget": {
+        "ar": "الأسعار غير محسوبة. خطط للسكن والوجبات وتذاكر كل فئة والنقل بين المدن وداخلها والدليل والقوارب وأي إضافات. اختيار قطار أو طيران أو نقل خاص يغيّر الميزانية؛ قارن عروضًا نهائية لنفس المواعيد بدل رقم تخميني.",
+        "en": "Unpriced. Budget for accommodation, meals, eligible admission, intercity and local travel, guides, boats and extras. Train, flight and private-transfer choices change the total. Compare final quotes for your dates rather than relying on a made-up figure."
+      },
+      "season": {
+        "ar": "الزيارات الأثرية المفتوحة أسهل عادة في الجو الأبرد. صيف الجنوب حار؛ خفف المواقع، ابدأ بدري حسب المواعيد وخلي للراحة مساحة. راجع توقعات الجو قبل السفر.",
+        "en": "Open-air archaeological visits are generally easier in cooler weather. Southern summers are hot. Reduce stops, start early when opening hours allow and leave room for breaks. Check the forecast before travelling."
+      },
+      "sources": [
+        "https://www.experienceegypt.eg/en/home/faq",
+        "https://www.experienceegypt.eg/en/home/geography/",
+        "https://www.lonelyplanet.com/articles/getting-around-egypt"
+      ],
+      "access": {
+        "ar": "ده مش تقييم إتاحة لكرسي متحرك أو وعد إنه مناسب لكل طفل. اسأل كل موقع ومشغّل عن السلالم والسطوح والمرافق ومقعد الطفل حسب احتياجك.",
+        "en": "This is not a wheelchair-access rating or a promise that every stop suits every child. Ask each site and operator about steps, surfaces, facilities and child seats for your needs."
+      }
+    }
+  },
+  {
+    "id": "cairo-four-day-program",
+    "destination": "cairo",
+    "title": {
+      "ar": "القاهرة والجيزة في 4 أيام",
+      "en": "Four days in Cairo and Giza"
+    },
+    "days": [
+      {
+        "title": {
+          "ar": "وصول من غير جري",
+          "en": "An unhurried arrival"
+        },
+        "places": [],
+        "note": {
+          "ar": "اليوم ده مرونة للوصول، مش وعد إن في وقت لزيارة بعد رحلة الطيران.",
+          "en": "This day allows for arrival, not a promise of sightseeing after a flight."
+        },
+        "morning": {
+          "ar": "الوصول واستلام السكن حسب موعده المتفق عليه.",
+          "en": "Arrive and check in at the agreed time."
+        },
+        "afternoon": {
+          "ar": "راحة وأكل والتعرّف على محيط السكن.",
+          "en": "Rest, eat and get to know the area around your accommodation."
+        },
+        "evening": {
+          "ar": "عشا ووقت حر. أي عرض أو نشاط إضافي بعد تأكيد مواعيده وتكلفته.",
+          "en": "Dinner and free time. Add a performance or activity only after confirming its schedule and cost."
+        },
+        "nightBase": "cairo"
+      },
+      {
+        "title": {
+          "ar": "هضبة الجيزة",
+          "en": "The Giza Plateau"
+        },
+        "places": [
+          "giza-pyramids"
+        ],
+        "note": {
+          "ar": "يوم مستقل للهضبة. حدد بوابة الدخول والنقل والتذاكر قبل التحرك.",
+          "en": "A separate plateau day. Confirm entrance, transport and tickets before leaving."
+        },
+        "morning": {
+          "ar": "الأهرامات على مهلك، مع مياه وحماية من الشمس.",
+          "en": "Visit the pyramids at your pace, with water and sun protection."
+        },
+        "afternoon": {
+          "ar": "غدا وراحة بعيد عن الشمس، مع مساحة للانتقالات.",
+          "en": "Lunch and a break out of the sun, with room for transfers."
+        },
+        "evening": {
+          "ar": "عشا ووقت حر. أي عرض أو نشاط إضافي بعد تأكيد مواعيده وتكلفته.",
+          "en": "Dinner and free time. Add a performance or activity only after confirming its schedule and cost."
+        },
+        "nightBase": "cairo"
+      },
+      {
+        "title": {
+          "ar": "المتحف المصري الكبير",
+          "en": "The Grand Egyptian Museum"
+        },
+        "places": [
+          "grand-egyptian-museum"
+        ],
+        "note": {
+          "ar": "احجز فئتك من الموقع الرسمي. مفيش تذكرة أو جولة إرشادية داخلة في الخطة.",
+          "en": "Choose your category on the official site. No admission or guided tour is included here."
+        },
+        "morning": {
+          "ar": "زيارة المتحف، مع اختيار قاعات تناسب اهتمامك.",
+          "en": "Visit selected galleries that match your interests."
+        },
+        "afternoon": {
+          "ar": "غدا وراحة بعيد عن الشمس، مع مساحة للانتقالات.",
+          "en": "Lunch and a break out of the sun, with room for transfers."
+        },
+        "evening": {
+          "ar": "عشا ووقت حر. أي عرض أو نشاط إضافي بعد تأكيد مواعيده وتكلفته.",
+          "en": "Dinner and free time. Add a performance or activity only after confirming its schedule and cost."
+        },
+        "nightBase": "cairo"
+      },
+      {
+        "title": {
+          "ar": "التحرير وحرف القاهرة",
+          "en": "Tahrir and Cairo crafts"
+        },
+        "places": [
+          "egyptian-museum",
+          "khayyamiyya"
+        ],
+        "note": {
+          "ar": "التحرير والخيامية مش في نفس المكان؛ سيب وقت نقل. لو المغادرة بدري اختار واحد بس.",
+          "en": "Tahrir and Khayyamiyya are separate areas. Allow transfer time, and choose one if leaving early."
+        },
+        "morning": {
+          "ar": "المتحف المصري بالتحرير، أو وقت راحة لو اكتفيت بمتاحف.",
+          "en": "The Egyptian Museum in Tahrir, or rest if you have had enough museums."
+        },
+        "afternoon": {
+          "ar": "الخيامية لو وقتك وإتاحة المحلات مناسبين؛ استأذن قبل التصوير.",
+          "en": "Khayyamiyya if time and shop access allow; ask before photographing."
+        },
+        "evening": {
+          "ar": "ختام القاهرة أو مغادرة بانتقال مؤكد.",
+          "en": "Finish in Cairo or leave using a confirmed transfer."
+        },
+        "nightBase": null
+      }
+    ],
+    "program": {
+      "start": "cairo",
+      "end": "cairo",
+      "budget": {
+        "ar": "الأسعار غير محسوبة. خطط للسكن والوجبات وتذاكر كل فئة والنقل بين المدن وداخلها والدليل والقوارب وأي إضافات. اختيار قطار أو طيران أو نقل خاص يغيّر الميزانية؛ قارن عروضًا نهائية لنفس المواعيد بدل رقم تخميني.",
+        "en": "Unpriced. Budget for accommodation, meals, eligible admission, intercity and local travel, guides, boats and extras. Train, flight and private-transfer choices change the total. Compare final quotes for your dates rather than relying on a made-up figure."
+      },
+      "season": {
+        "ar": "الزيارات الأثرية المفتوحة أسهل عادة في الجو الأبرد. صيف الجنوب حار؛ خفف المواقع، ابدأ بدري حسب المواعيد وخلي للراحة مساحة. راجع توقعات الجو قبل السفر.",
+        "en": "Open-air archaeological visits are generally easier in cooler weather. Southern summers are hot. Reduce stops, start early when opening hours allow and leave room for breaks. Check the forecast before travelling."
+      },
+      "sources": [
+        "https://www.experienceegypt.eg/en/home/faq",
+        "https://www.experienceegypt.eg/en/home/geography/",
+        "https://www.lonelyplanet.com/articles/getting-around-egypt"
+      ],
+      "access": {
+        "ar": "ده مش تقييم إتاحة لكرسي متحرك أو وعد إنه مناسب لكل طفل. اسأل كل موقع ومشغّل عن السلالم والسطوح والمرافق ومقعد الطفل حسب احتياجك.",
+        "en": "This is not a wheelchair-access rating or a promise that every stop suits every child. Ask each site and operator about steps, surfaces, facilities and child seats for your needs."
+      }
+    }
+  },
+  {
+    "id": "cairo-alex-seven-day-program",
+    "destination": "cairo",
+    "title": {
+      "ar": "القاهرة وإسكندرية في 7 أيام",
+      "en": "Seven days: Cairo and Alexandria"
+    },
+    "days": [
+      {
+        "title": {
+          "ar": "وصول من غير جري",
+          "en": "An unhurried arrival"
+        },
+        "places": [],
+        "note": {
+          "ar": "اليوم ده مرونة للوصول، مش وعد إن في وقت لزيارة بعد رحلة الطيران.",
+          "en": "This day allows for arrival, not a promise of sightseeing after a flight."
+        },
+        "morning": {
+          "ar": "الوصول واستلام السكن حسب موعده المتفق عليه.",
+          "en": "Arrive and check in at the agreed time."
+        },
+        "afternoon": {
+          "ar": "راحة وأكل والتعرّف على محيط السكن.",
+          "en": "Rest, eat and get to know the area around your accommodation."
+        },
+        "evening": {
+          "ar": "عشا ووقت حر. أي عرض أو نشاط إضافي بعد تأكيد مواعيده وتكلفته.",
+          "en": "Dinner and free time. Add a performance or activity only after confirming its schedule and cost."
+        },
+        "nightBase": "cairo"
+      },
+      {
+        "title": {
+          "ar": "هضبة الجيزة",
+          "en": "The Giza Plateau"
+        },
+        "places": [
+          "giza-pyramids"
+        ],
+        "note": {
+          "ar": "يوم مستقل للهضبة. حدد بوابة الدخول والنقل والتذاكر قبل التحرك.",
+          "en": "A separate plateau day. Confirm entrance, transport and tickets before leaving."
+        },
+        "morning": {
+          "ar": "الأهرامات على مهلك، مع مياه وحماية من الشمس.",
+          "en": "Visit the pyramids at your pace, with water and sun protection."
+        },
+        "afternoon": {
+          "ar": "غدا وراحة بعيد عن الشمس، مع مساحة للانتقالات.",
+          "en": "Lunch and a break out of the sun, with room for transfers."
+        },
+        "evening": {
+          "ar": "عشا ووقت حر. أي عرض أو نشاط إضافي بعد تأكيد مواعيده وتكلفته.",
+          "en": "Dinner and free time. Add a performance or activity only after confirming its schedule and cost."
+        },
+        "nightBase": "cairo"
+      },
+      {
+        "title": {
+          "ar": "المتحف المصري الكبير",
+          "en": "The Grand Egyptian Museum"
+        },
+        "places": [
+          "grand-egyptian-museum"
+        ],
+        "note": {
+          "ar": "احجز فئتك من الموقع الرسمي. مفيش تذكرة أو جولة إرشادية داخلة في الخطة.",
+          "en": "Choose your category on the official site. No admission or guided tour is included here."
+        },
+        "morning": {
+          "ar": "زيارة المتحف، مع اختيار قاعات تناسب اهتمامك.",
+          "en": "Visit selected galleries that match your interests."
+        },
+        "afternoon": {
+          "ar": "غدا وراحة بعيد عن الشمس، مع مساحة للانتقالات.",
+          "en": "Lunch and a break out of the sun, with room for transfers."
+        },
+        "evening": {
+          "ar": "عشا ووقت حر. أي عرض أو نشاط إضافي بعد تأكيد مواعيده وتكلفته.",
+          "en": "Dinner and free time. Add a performance or activity only after confirming its schedule and cost."
+        },
+        "nightBase": "cairo"
+      },
+      {
+        "title": {
+          "ar": "التحرير وحرف القاهرة",
+          "en": "Tahrir and Cairo crafts"
+        },
+        "places": [
+          "egyptian-museum",
+          "khayyamiyya"
+        ],
+        "note": {
+          "ar": "التحرير والخيامية مش في نفس المكان؛ سيب وقت نقل. لو المغادرة بدري اختار واحد بس.",
+          "en": "Tahrir and Khayyamiyya are separate areas. Allow transfer time, and choose one if leaving early."
+        },
+        "morning": {
+          "ar": "المتحف المصري بالتحرير، أو وقت راحة لو اكتفيت بمتاحف.",
+          "en": "The Egyptian Museum in Tahrir, or rest if you have had enough museums."
+        },
+        "afternoon": {
+          "ar": "الخيامية لو وقتك وإتاحة المحلات مناسبين؛ استأذن قبل التصوير.",
+          "en": "Khayyamiyya if time and shop access allow; ask before photographing."
+        },
+        "evening": {
+          "ar": "عشا ووقت حر. أي عرض أو نشاط إضافي بعد تأكيد مواعيده وتكلفته.",
+          "en": "Dinner and free time. Add a performance or activity only after confirming its schedule and cost."
+        },
+        "nightBase": "cairo"
+      },
+      {
+        "title": {
+          "ar": "من القاهرة للبحر",
+          "en": "Cairo to the Mediterranean"
+        },
+        "places": [],
+        "note": {
+          "ar": "يوم انتقال إلى إسكندرية. احجز النقل بنفسك، ومواعيده الحالية مش محسوبة هنا.",
+          "en": "Transfer to Alexandria. Arrange transport separately; current schedules are not calculated here."
+        },
+        "morning": {
+          "ar": "مغادرة القاهرة بالحجز اللي أكدته.",
+          "en": "Leave Cairo using your confirmed booking."
+        },
+        "afternoon": {
+          "ar": "وصول، سكن، غدا وراحة.",
+          "en": "Arrive, check in, have lunch and rest."
+        },
+        "evening": {
+          "ar": "وقت حر قريب من السكن بدل برنامج بعيد بعد السفر.",
+          "en": "Free time near your accommodation rather than a long trip after travel."
+        },
+        "nightBase": "alexandria"
+      },
+      {
+        "title": {
+          "ar": "قلعة ومكتبة",
+          "en": "Citadel and library"
+        },
+        "places": [
+          "qaitbay",
+          "bibliotheca"
+        ],
+        "note": {
+          "ar": "زيارة المكتبة تعتمد على برنامجها وإتاحة الجمهور. لو مقفولة بدّلها براحة أو زيارة مؤكدة أخرى.",
+          "en": "The library visit depends on its public-access arrangements. If closed, choose rest or another confirmed visit."
+        },
+        "morning": {
+          "ar": "قايتباي بعد مراجعة التذكرة ومواعيد الدخول.",
+          "en": "Qaitbay after checking admission and opening hours."
+        },
+        "afternoon": {
+          "ar": "راحة وغدا، ثم المكتبة لو الزيارة متاحة.",
+          "en": "Lunch and a break, then the library if visiting is available."
+        },
+        "evening": {
+          "ar": "عشا ووقت حر. أي عرض أو نشاط إضافي بعد تأكيد مواعيده وتكلفته.",
+          "en": "Dinner and free time. Add a performance or activity only after confirming its schedule and cost."
+        },
+        "nightBase": "alexandria"
+      },
+      {
+        "title": {
+          "ar": "رجوع مرن للقاهرة",
+          "en": "A flexible return to Cairo"
+        },
+        "places": [],
+        "note": {
+          "ar": "الخطة بتنتهي في القاهرة، مش في المطار. بلاش تربطها برحلة دولية في نفس اليوم من غير هامش مناسب.",
+          "en": "The route ends in Cairo, not at the airport. Do not connect it to an international flight that day without a suitable buffer."
+        },
+        "morning": {
+          "ar": "استلام الشنط والعودة للقاهرة بحجز مؤكد.",
+          "en": "Collect bags and return to Cairo with confirmed transport."
+        },
+        "afternoon": {
+          "ar": "مساحة للتأخير والراحة، من غير زيارة محجوزة.",
+          "en": "Allow for delays and rest, without a reserved attraction."
+        },
+        "evening": {
+          "ar": "نهاية البرنامج في القاهرة؛ السكن التالي أو المطار ترتيب منفصل.",
+          "en": "Finish in Cairo; onward accommodation or airport travel is separate."
+        },
+        "nightBase": null
+      }
+    ],
+    "program": {
+      "start": "cairo",
+      "end": "cairo",
+      "budget": {
+        "ar": "الأسعار غير محسوبة. خطط للسكن والوجبات وتذاكر كل فئة والنقل بين المدن وداخلها والدليل والقوارب وأي إضافات. اختيار قطار أو طيران أو نقل خاص يغيّر الميزانية؛ قارن عروضًا نهائية لنفس المواعيد بدل رقم تخميني.",
+        "en": "Unpriced. Budget for accommodation, meals, eligible admission, intercity and local travel, guides, boats and extras. Train, flight and private-transfer choices change the total. Compare final quotes for your dates rather than relying on a made-up figure."
+      },
+      "season": {
+        "ar": "الزيارات الأثرية المفتوحة أسهل عادة في الجو الأبرد. صيف الجنوب حار؛ خفف المواقع، ابدأ بدري حسب المواعيد وخلي للراحة مساحة. راجع توقعات الجو قبل السفر.",
+        "en": "Open-air archaeological visits are generally easier in cooler weather. Southern summers are hot. Reduce stops, start early when opening hours allow and leave room for breaks. Check the forecast before travelling."
+      },
+      "sources": [
+        "https://www.experienceegypt.eg/en/home/faq",
+        "https://www.experienceegypt.eg/en/home/geography/",
+        "https://www.lonelyplanet.com/articles/getting-around-egypt"
+      ],
+      "access": {
+        "ar": "ده مش تقييم إتاحة لكرسي متحرك أو وعد إنه مناسب لكل طفل. اسأل كل موقع ومشغّل عن السلالم والسطوح والمرافق ومقعد الطفل حسب احتياجك.",
+        "en": "This is not a wheelchair-access rating or a promise that every stop suits every child. Ask each site and operator about steps, surfaces, facilities and child seats for your needs."
+      }
+    }
+  },
+  {
+    "id": "nile-ten-day-program",
+    "destination": "cairo",
+    "title": {
+      "ar": "مصر على النيل في 10 أيام",
+      "en": "Ten days along the Nile"
+    },
+    "days": [
+      {
+        "title": {
+          "ar": "وصول من غير جري",
+          "en": "An unhurried arrival"
+        },
+        "places": [],
+        "note": {
+          "ar": "اليوم ده مرونة للوصول، مش وعد إن في وقت لزيارة بعد رحلة الطيران.",
+          "en": "This day allows for arrival, not a promise of sightseeing after a flight."
+        },
+        "morning": {
+          "ar": "الوصول واستلام السكن حسب موعده المتفق عليه.",
+          "en": "Arrive and check in at the agreed time."
+        },
+        "afternoon": {
+          "ar": "راحة وأكل والتعرّف على محيط السكن.",
+          "en": "Rest, eat and get to know the area around your accommodation."
+        },
+        "evening": {
+          "ar": "عشا ووقت حر. أي عرض أو نشاط إضافي بعد تأكيد مواعيده وتكلفته.",
+          "en": "Dinner and free time. Add a performance or activity only after confirming its schedule and cost."
+        },
+        "nightBase": "cairo"
+      },
+      {
+        "title": {
+          "ar": "هضبة الجيزة",
+          "en": "The Giza Plateau"
+        },
+        "places": [
+          "giza-pyramids"
+        ],
+        "note": {
+          "ar": "يوم مستقل للهضبة. حدد بوابة الدخول والنقل والتذاكر قبل التحرك.",
+          "en": "A separate plateau day. Confirm entrance, transport and tickets before leaving."
+        },
+        "morning": {
+          "ar": "الأهرامات على مهلك، مع مياه وحماية من الشمس.",
+          "en": "Visit the pyramids at your pace, with water and sun protection."
+        },
+        "afternoon": {
+          "ar": "غدا وراحة بعيد عن الشمس، مع مساحة للانتقالات.",
+          "en": "Lunch and a break out of the sun, with room for transfers."
+        },
+        "evening": {
+          "ar": "عشا ووقت حر. أي عرض أو نشاط إضافي بعد تأكيد مواعيده وتكلفته.",
+          "en": "Dinner and free time. Add a performance or activity only after confirming its schedule and cost."
+        },
+        "nightBase": "cairo"
+      },
+      {
+        "title": {
+          "ar": "المتحف المصري الكبير",
+          "en": "The Grand Egyptian Museum"
+        },
+        "places": [
+          "grand-egyptian-museum"
+        ],
+        "note": {
+          "ar": "احجز فئتك من الموقع الرسمي. مفيش تذكرة أو جولة إرشادية داخلة في الخطة.",
+          "en": "Choose your category on the official site. No admission or guided tour is included here."
+        },
+        "morning": {
+          "ar": "زيارة المتحف، مع اختيار قاعات تناسب اهتمامك.",
+          "en": "Visit selected galleries that match your interests."
+        },
+        "afternoon": {
+          "ar": "غدا وراحة بعيد عن الشمس، مع مساحة للانتقالات.",
+          "en": "Lunch and a break out of the sun, with room for transfers."
+        },
+        "evening": {
+          "ar": "عشا ووقت حر. أي عرض أو نشاط إضافي بعد تأكيد مواعيده وتكلفته.",
+          "en": "Dinner and free time. Add a performance or activity only after confirming its schedule and cost."
+        },
+        "nightBase": "cairo"
+      },
+      {
+        "title": {
+          "ar": "القاهرة إلى الأقصر",
+          "en": "Cairo to Luxor"
+        },
+        "places": [],
+        "note": {
+          "ar": "خصص اليوم للانتقال. الطيران أو القطار اختيار منفصل حسب المواعيد الحالية؛ لا تفترض إن الانتقال قصير.",
+          "en": "Keep this day for travel. Choose a flight or train from current schedules separately; do not assume a short journey."
+        },
+        "morning": {
+          "ar": "مغادرة بالسفر المؤكد، أو استكمال رحلة بدأت مساء اليوم السابق.",
+          "en": "Use confirmed transport, or finish a journey started the previous evening."
+        },
+        "afternoon": {
+          "ar": "وصول للسكن وراحة.",
+          "en": "Arrive at your accommodation and rest."
+        },
+        "evening": {
+          "ar": "عشا ووقت حر. أي عرض أو نشاط إضافي بعد تأكيد مواعيده وتكلفته.",
+          "en": "Dinner and free time. Add a performance or activity only after confirming its schedule and cost."
+        },
+        "nightBase": "luxor"
+      },
+      {
+        "title": {
+          "ar": "معابد البر الشرقي",
+          "en": "East Bank temples"
+        },
+        "places": [
+          "karnak",
+          "luxor-temple"
+        ],
+        "note": {
+          "ar": "اختار بداية مبكرة تناسب مواعيد الدخول، وخد راحة بين المعبدين.",
+          "en": "Choose an early start that fits opening hours and take a break between temples."
+        },
+        "morning": {
+          "ar": "ابدأ بالكرنك، من غير محاولة تغطية كل ركن.",
+          "en": "Start at Karnak without trying to cover every corner."
+        },
+        "afternoon": {
+          "ar": "غدا وراحة بعيد عن الشمس، مع مساحة للانتقالات.",
+          "en": "Lunch and a break out of the sun, with room for transfers."
+        },
+        "evening": {
+          "ar": "معبد الأقصر لو موعده الحالي مناسب، أو انقله للصباح التالي.",
+          "en": "Luxor Temple if its current opening hours work, otherwise move it to the next morning."
+        },
+        "nightBase": "luxor"
+      },
+      {
+        "title": {
+          "ar": "المقابر والدير البحري",
+          "en": "Tombs and Deir al-Bahari"
+        },
+        "places": [
+          "valley-kings",
+          "hatshepsut"
+        ],
+        "note": {
+          "ar": "رتّب سائق أو نقل مرخّص للبر الغربي. المقابر الإضافية قد تحتاج تذاكر منفصلة.",
+          "en": "Arrange licensed West Bank transport. Additional tombs may require separate tickets."
+        },
+        "morning": {
+          "ar": "وادي الملوك مع اختيار عدد زيارات يناسب طاقتك.",
+          "en": "Valley of the Kings with a number of tombs that suits your energy."
+        },
+        "afternoon": {
+          "ar": "حتشبسوت بعد استراحة، أو اكتفِ بموقع واحد في الحر.",
+          "en": "Hatshepsut after a break, or keep to one site in hot weather."
+        },
+        "evening": {
+          "ar": "عشا ووقت حر. أي عرض أو نشاط إضافي بعد تأكيد مواعيده وتكلفته.",
+          "en": "Dinner and free time. Add a performance or activity only after confirming its schedule and cost."
+        },
+        "nightBase": "luxor"
+      },
+      {
+        "title": {
+          "ar": "الأقصر إلى أسوان",
+          "en": "Luxor to Aswan"
+        },
+        "places": [],
+        "note": {
+          "ar": "النقل والحجز منفصلين. لا نضيف معابد على الطريق من غير ترتيب ومواعيد مؤكدة.",
+          "en": "Arrange transport separately. No en-route temple stops are assumed without confirmed arrangements."
+        },
+        "morning": {
+          "ar": "استلام الشنط ومغادرة الأقصر.",
+          "en": "Collect bags and leave Luxor."
+        },
+        "afternoon": {
+          "ar": "وصول أسوان، سكن وراحة.",
+          "en": "Arrive in Aswan, check in and rest."
+        },
+        "evening": {
+          "ar": "عشا ووقت حر. أي عرض أو نشاط إضافي بعد تأكيد مواعيده وتكلفته.",
+          "en": "Dinner and free time. Add a performance or activity only after confirming its schedule and cost."
+        },
+        "nightBase": "aswan"
+      },
+      {
+        "title": {
+          "ar": "فيلة والمياه",
+          "en": "Philae and the water"
+        },
+        "places": [
+          "philae"
+        ],
+        "note": {
+          "ar": "تذكرة الموقع والقارب والنقل بنود مختلفة؛ اسأل عن كل واحد قبل الاتفاق.",
+          "en": "Site admission, boat and transfers are different items. Ask about each before agreeing."
+        },
+        "morning": {
+          "ar": "فيلة بعد تأكيد نقطة القارب والرسوم.",
+          "en": "Philae after confirming the boat point and charges."
+        },
+        "afternoon": {
+          "ar": "غدا وراحة بعيد عن الشمس، مع مساحة للانتقالات.",
+          "en": "Lunch and a break out of the sun, with room for transfers."
+        },
+        "evening": {
+          "ar": "عشا ووقت حر. أي عرض أو نشاط إضافي بعد تأكيد مواعيده وتكلفته.",
+          "en": "Dinner and free time. Add a performance or activity only after confirming its schedule and cost."
+        },
+        "nightBase": "aswan"
+      },
+      {
+        "title": {
+          "ar": "أبو سمبل أو يوم أخف",
+          "en": "Abu Simbel or a lighter day"
+        },
+        "places": [
+          "abu-simbel"
+        ],
+        "note": {
+          "ar": "الوزارة تذكر نحو 300 كم جنوب أسوان. رحلة مستقلة مع مشغّل مرخّص، مش محطة صغيرة. بدّلها براحة أو إلفنتين لو مش مناسبة.",
+          "en": "The ministry places it around 300 km south of Aswan. This is a separate licensed excursion, not a quick stop. Choose rest or Elephantine if it does not suit."
+        },
+        "morning": {
+          "ar": "رحلة أبو سمبل فقط بعد تأكيد النقل والتصاريح والمواعيد.",
+          "en": "Abu Simbel only after confirming transport, permits and times."
+        },
+        "afternoon": {
+          "ar": "استكمال الرحلة والرجوع حسب ترتيب المشغّل.",
+          "en": "Complete the excursion and return according to the operator’s plan."
+        },
+        "evening": {
+          "ar": "راحة، من غير عرض إضافي بعد يوم طريق.",
+          "en": "Rest without adding another event after a travel day."
+        },
+        "nightBase": "aswan"
+      },
+      {
+        "title": {
+          "ar": "نوبة وختام أسوان",
+          "en": "Nubian heritage and an Aswan finish"
+        },
+        "places": [
+          "nubian-museum"
+        ],
+        "note": {
+          "ar": "البرنامج بينتهي في أسوان. العودة للقاهرة أو الرحلة الدولية مش ضمنه؛ ضيف يوم انتقال لو محتاج.",
+          "en": "The programme ends in Aswan. Return travel to Cairo or an international flight is not included; add a transfer day if needed."
+        },
+        "morning": {
+          "ar": "متحف النوبة لو وقت المغادرة يسمح، وإلا احذفه.",
+          "en": "Nubian Museum if departure allows, otherwise skip it."
+        },
+        "afternoon": {
+          "ar": "استلام الشنط وانتقال مؤكد للحجز التالي.",
+          "en": "Collect bags and take a confirmed onward transfer."
+        },
+        "evening": {
+          "ar": "نهاية البرنامج في أسوان.",
+          "en": "The route ends in Aswan."
+        },
+        "nightBase": null
+      }
+    ],
+    "program": {
+      "start": "cairo",
+      "end": "aswan",
+      "budget": {
+        "ar": "الأسعار غير محسوبة. خطط للسكن والوجبات وتذاكر كل فئة والنقل بين المدن وداخلها والدليل والقوارب وأي إضافات. اختيار قطار أو طيران أو نقل خاص يغيّر الميزانية؛ قارن عروضًا نهائية لنفس المواعيد بدل رقم تخميني.",
+        "en": "Unpriced. Budget for accommodation, meals, eligible admission, intercity and local travel, guides, boats and extras. Train, flight and private-transfer choices change the total. Compare final quotes for your dates rather than relying on a made-up figure."
+      },
+      "season": {
+        "ar": "الزيارات الأثرية المفتوحة أسهل عادة في الجو الأبرد. صيف الجنوب حار؛ خفف المواقع، ابدأ بدري حسب المواعيد وخلي للراحة مساحة. راجع توقعات الجو قبل السفر.",
+        "en": "Open-air archaeological visits are generally easier in cooler weather. Southern summers are hot. Reduce stops, start early when opening hours allow and leave room for breaks. Check the forecast before travelling."
+      },
+      "sources": [
+        "https://www.experienceegypt.eg/en/home/faq",
+        "https://www.experienceegypt.eg/en/home/geography/",
+        "https://www.lonelyplanet.com/articles/getting-around-egypt"
+      ],
+      "access": {
+        "ar": "ده مش تقييم إتاحة لكرسي متحرك أو وعد إنه مناسب لكل طفل. اسأل كل موقع ومشغّل عن السلالم والسطوح والمرافق ومقعد الطفل حسب احتياجك.",
+        "en": "This is not a wheelchair-access rating or a promise that every stop suits every child. Ask each site and operator about steps, surfaces, facilities and child seats for your needs."
+      }
+    }
+  }
+]
