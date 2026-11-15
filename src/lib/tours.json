@@ -1,0 +1,62 @@
+[
+  {
+    "placeId": "giza-pyramids",
+    "provider": "Google Street View",
+    "kind": "panorama",
+    "title": {
+      "ar": "عند الهرم الأكبر",
+      "en": "Beside the Great Pyramid"
+    },
+    "scope": {
+      "ar": "بانوراما خارجية من هضبة الجيزة. مش جولة داخل الهرم ولا تغطية لكل الهضبة. تصوير أرشيفي.",
+      "en": "An outdoor panorama on the Giza Plateau. Not the pyramid interior or coverage of the whole plateau. Archival imagery."
+    },
+    "url": "https://www.google.com/maps/@29.9791375,31.1355772,3a,75y,269.39h,120.06t/data=!3m5!1e1!3m3!1snoXQFKlSdafIElPS76uvtA!2e0!3e5",
+    "source": "https://arabia.googleblog.com/2014/09/google.html"
+  },
+  {
+    "placeId": "qaitbay",
+    "provider": "Google Street View",
+    "kind": "panorama",
+    "title": {
+      "ar": "ساحة قلعة قايتباي",
+      "en": "Qaitbay Citadel courtyard"
+    },
+    "scope": {
+      "ar": "بانوراما من ساحة القلعة، مش كل غرفها. Google يعرض تاريخ التصوير يونيو 2013؛ شكل المكان اليوم ممكن يختلف.",
+      "en": "A courtyard panorama, not every room. Google shows June 2013 imagery; the site may look different today."
+    },
+    "url": "https://www.google.com/maps/@31.2136351,29.885642,3a,75y,358.29h,96.01t/data=!3m5!1e1!3m3!1s49MCOuQxaUcAyw3mDUEtMA!2e0!3e5?hl=en-GB",
+    "source": "https://arabia.googleblog.com/2014/09/google.html"
+  },
+  {
+    "placeId": "abu-simbel",
+    "provider": "NAV3D · Matterport",
+    "kind": "model",
+    "title": {
+      "ar": "معبد أبو سمبل الكبير",
+      "en": "The Great Temple at Abu Simbel"
+    },
+    "scope": {
+      "ar": "نموذج ثلاثي الأبعاد للمعبد الكبير المعروض عند المصدر. مش تغطية مؤكدة للمعبدين وكل المنطقة.",
+      "en": "A 3D model of the Great Temple shown by the provider. Not confirmed coverage of both temples or the whole site."
+    },
+    "url": "https://my.matterport.com/show/?m=sgMWWDvdKsV",
+    "source": "https://nav-3d.com/project/abu-simbel-temple/"
+  },
+  {
+    "placeId": "egyptian-museum",
+    "provider": "Virtual Mid East · Matterport",
+    "kind": "archive",
+    "title": {
+      "ar": "أرشيف: قاعة توت عنخ آمون",
+      "en": "Archive: the Tutankhamun hall"
+    },
+    "scope": {
+      "ar": "تسجيل أرشيفي للعرض القديم في التحرير. مش دليل على وجود القطع دي في نفس القاعة دلوقتي، ومش جولة للمتحف المصري الكبير.",
+      "en": "An archival record of the former Tahrir display. It does not show that these objects are in the same galleries now. It is not a tour of the Grand Egyptian Museum."
+    },
+    "url": "https://my.matterport.com/show/?m=85n8j312Ur4",
+    "source": "https://egymonuments.gov.eg/news/a-virtual-tour-through-the-tutankhamun-collection-at-the-egyptian-museum"
+  }
+]
