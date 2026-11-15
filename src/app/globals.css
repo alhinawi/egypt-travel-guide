@@ -21,3 +21,4 @@ html{--page:#f5f1e9;--paper:#fffdf8;--ink:#262b27;--muted:#65705f;--accent:#3f68
 html[data-theme=night] .login-fine a{color:var(--accent)}html[data-theme=night] .language-button{color:var(--ink);border-color:var(--line)}
 .icon-button{color:inherit}.site-drawer{inset-inline-start:0;inset-inline-end:auto}
 .login-photo-credit{position:absolute;bottom:12px;inset-inline-end:16px;font:9px Arial;color:#eee;text-decoration:underline}.login-art>p{bottom:50px}
+@font-face{font-family:'Google Sans';src:url('/fonts/google-sans-500.woff2') format('woff2');font-weight:500;font-style:normal;font-display:swap}.google-continue{font-family:'Google Sans','Plex Arabic',sans-serif}
