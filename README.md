@@ -8,7 +8,7 @@ A mobile-first, independent Egypt guide by Mohamed Alhinawi, for domestic travel
 - Arabic and English content, explicit locale URLs, RTL/LTR, remembered language choice.
 - Source links and review dates. Unverified prices or hours are labeled, never invented.
 - 24 verified Google Maps place-card links. Broad or changing locations do not get guessed pins.
-- Google sign-in, guest bookmarks, D1-backed synced bookmarks, sign-out and confirmed self-service account deletion.
+- Google sign-in, guest bookmarks, D1-backed synced bookmarks and sign-out.
 - Next.js static export with Hono running on same-origin Cloudflare Pages Functions.
 
 ## Local setup
@@ -43,7 +43,7 @@ The `_routes.json` file restricts Function invocation to `/api/*`. Static pages 
 
 ## Safety and privacy
 
-OAuth uses state, nonce, PKCE S256, Google ID-token signature/audience/issuer verification, and secure HttpOnly same-site cookies. Session tokens are hashed in D1. Mutations require a matching Origin and JSON, IDs are validated, and account deletion requires explicit confirmation. No Gmail, Drive, contacts or advertising-tracker access is used. Full privacy information is available in both languages in the site.
+OAuth uses state, nonce, PKCE S256, Google ID-token signature/audience/issuer verification, and secure HttpOnly same-site cookies. Session tokens are hashed in D1. Mutations require a matching Origin and JSON, IDs are validated. No Gmail, Drive, contacts or advertising-tracker access is used. Full privacy information is available in both languages in the site.
 
 ## Photography and fonts
 

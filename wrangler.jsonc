@@ -6,7 +6,7 @@
     "nodejs_compat"
   ],
   "vars": {
-    "APP_ORIGIN": "https://egypt-travel-guide.pages.dev"
+    "APP_ORIGIN": "https://egypt-travel-guide-c9g.pages.dev"
   },
   "d1_databases": [
     {
