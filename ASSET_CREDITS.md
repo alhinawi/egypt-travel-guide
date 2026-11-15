@@ -12,3 +12,8 @@ All photos are archival. All local variants are resized, compressed WebP derivat
 | Hurghada | Hmbr | https://commons.wikimedia.org/wiki/File:Hurghada_beach.jpg | CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/ |
 
 Noto Sans Arabic, copyright Google and contributors, SIL Open Font License, bundled license: `public/fonts/OFL.txt`. The font files are reduced character subsets for Arabic, basic Latin and punctuation. Lucide icons are ISC-licensed through the lucide-react dependency.
+
+## Google sign-in mark
+Official Google identity sign-in asset, used only for the Google authentication action. Outer tile boundary removed to avoid duplicate boundaries inside the full-width light button; the standard multicolour mark is unchanged.
+https://developers.google.com/identity/branding-guidelines
+https://developers.google.com/static/identity/images/signin-assets.zip
