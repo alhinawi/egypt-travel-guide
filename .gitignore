@@ -1,0 +1,10 @@
+node_modules
+.next
+out
+.wrangler
+.env*
+.dev.vars
+.git-credentials-helper
+playwright-report
+test-results
+*.log
