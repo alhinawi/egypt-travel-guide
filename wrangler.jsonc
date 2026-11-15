@@ -1,0 +1,19 @@
+{
+  "name": "egypt-travel-guide",
+  "pages_build_output_dir": "out",
+  "compatibility_date": "2026-08-01",
+  "compatibility_flags": [
+    "nodejs_compat"
+  ],
+  "vars": {
+    "APP_ORIGIN": "https://egypt-travel-guide.pages.dev"
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "egypt-travel-guide",
+      "database_id": "40cdd83b-4490-48d5-96dc-9fdc9519f643",
+      "migrations_dir": "migrations"
+    }
+  ]
+}

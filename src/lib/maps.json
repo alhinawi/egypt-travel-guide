@@ -1,0 +1,98 @@
+{
+  "giza-pyramids": {
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Giza+Plateau&query_place_id=ChIJ1-7Ki31PWBQRbbfEc4MNCJk",
+    "mapName": "Giza Plateau"
+  },
+  "grand-egyptian-museum": {
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Grand+Egyptian+Museum&query_place_id=ChIJ0YpKmDRFWBQRGibsxFtMdkU",
+    "mapName": "The Grand Egyptian Museum"
+  },
+  "egyptian-museum": {
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Egyptian+Museum+in+Cairo&query_place_id=ChIJKfCtck2xWBQR5L_ttrv5OJo",
+    "mapName": "The Egyptian Museum in Cairo"
+  },
+  "khayyamiyya": {
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Al+Khyiamia+%28Tent+Makers+Bazaar%29&query_place_id=ChIJfwPeFMNBWBQRRo0LbvKqdy8",
+    "mapName": "Al Khyiamia (Tent Makers Bazaar)"
+  },
+  "wikalat-al-ghuri": {
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wekalet+of+Sultan+al-Ghuri+%E2%80%93+Arts+Center&query_place_id=ChIJ7QtscaBAWBQRTKSvxJJSQyM",
+    "mapName": "Wekalet of Sultan al-Ghuri – Arts Center"
+  },
+  "qaitbay": {
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Qaitbay+Citadel&query_place_id=ChIJuxEpKFLD9RQRHz2y-AiDn-U",
+    "mapName": "Qaitbay Citadel"
+  },
+  "bibliotheca": {
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bibliotheca+Alexandrina&query_place_id=ChIJhf5iBYrD9RQR5yPsMsZMowA",
+    "mapName": "Bibliotheca Alexandrina"
+  },
+  "montazah": {
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=El+Montaza+Gardens&query_place_id=ChIJEUN1oWHQ9RQR2EQki0KhFs0",
+    "mapName": "El Montaza Gardens"
+  },
+  "cavafy": {
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cavafy+Museum&query_place_id=ChIJod7GsOrE9RQRKNEtCWcrwec",
+    "mapName": "Cavafy Museum"
+  },
+  "antoniadis": {
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Antoniades+Gardens&query_place_id=ChIJgzt2NaDE9RQRf_5XMphdt3g",
+    "mapName": "Antoniades Gardens"
+  },
+  "karnak": {
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Karnak&query_place_id=ChIJzcD-KJIVSRQR2FnCCMDoGsc",
+    "mapName": "Karnak"
+  },
+  "luxor-temple": {
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Luxor+Temple&query_place_id=ChIJYd_aHsQVSRQRgX1sNFyJk3Y",
+    "mapName": "Luxor Temple"
+  },
+  "valley-kings": {
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Valley+of+the+Kings&query_place_id=ChIJ1_7etYo9SRQR2qnjovbMj3E",
+    "mapName": "Valley of the Kings"
+  },
+  "hatshepsut": {
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mortuary+Temple+of+Hatshepsut&query_place_id=ChIJ3ae_xxgWSRQR07VjFXrhHwM",
+    "mapName": "Mortuary Temple of Hatshepsut"
+  },
+  "luxor-museum": {
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Luxor+Museum&query_place_id=ChIJYd_aHsQVSRQRJJBTvfwQ07s",
+    "mapName": "Luxor Museum"
+  },
+  "philae": {
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Philae+Temple&query_place_id=ChIJuXeJLNtiNhQReOUrg0ms8pk",
+    "mapName": "Philae Temple"
+  },
+  "elephantine": {
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Elephantine&query_place_id=ChIJ1_Qhn6ZkNhQRNMoS39rgIBw",
+    "mapName": "Elephantine"
+  },
+  "nubian-museum": {
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nubian+Museum&query_place_id=ChIJCeghfVljNhQRR1EA_pXlJ8o",
+    "mapName": "Nubian Museum"
+  },
+  "unfinished-obelisk": {
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Unfinished+Obelisk&query_place_id=ChIJP6ozXKpkNhQRxoYwGxoXv6E",
+    "mapName": "Unfinished Obelisk"
+  },
+  "abu-simbel": {
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Abu+Simbel+Temples&query_place_id=ChIJWwUmsYipOhQR0pj4GGbM06c",
+    "mapName": "Abu Simbel Temples"
+  },
+  "eel-garden": {
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Eel+Garden&query_place_id=EjFFZWwgR2FyZGVuLCBEYWhhYiwgU291dGggU2luYWkgR292ZXJub3JhdGUsIEVneXB0Ii4qLAoUChIJwSyzICZLqxUR83b7wRtkej8SFAoSCV9Yrb8pS6sVEb8ZM3mNI2Ws",
+    "mapName": "Eel Garden"
+  },
+  "giftun": {
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jaz%C4%81%27ir+Jift%C5%ABn&query_place_id=ChIJKzvQ44iFUhQRA6AV5BclN_M",
+    "mapName": "Jazā'ir Jiftūn"
+  },
+  "hurghada-marina": {
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Marina+Hurghada&query_place_id=ChIJw6-nU0yGUhQRxwgsyqb2rx4",
+    "mapName": "Marina Hurghada"
+  },
+  "hurghada-museum": {
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hurghada+Museum&query_place_id=ChIJz6O44zOBUhQRC5OlEmjXFvA",
+    "mapName": "Hurghada Museum"
+  }
+}
