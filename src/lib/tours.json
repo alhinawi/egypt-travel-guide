@@ -42,7 +42,9 @@
       "en": "A 3D model of the Great Temple shown by the provider. Not confirmed coverage of both temples or the whole site."
     },
     "url": "https://my.matterport.com/show/?m=sgMWWDvdKsV",
-    "source": "https://nav-3d.com/project/abu-simbel-temple/"
+    "source": "https://egymonuments.gov.eg/news/virtual-tour-for-abu-simbel-temple/",
+    "embedUrl": "https://my.matterport.com/show/?m=sgMWWDvdKsV&play=1",
+    "interiorVerified": true
   },
   {
     "placeId": "egyptian-museum",
