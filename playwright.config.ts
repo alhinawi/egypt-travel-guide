@@ -1,0 +1,1 @@
+import{defineConfig}from'@playwright/test';export default defineConfig({testDir:'tests',testMatch:'*.spec.ts',use:{baseURL:'http://127.0.0.1:8787',launchOptions:{executablePath:'/usr/bin/google-chrome-stable',args:['--no-sandbox']}},webServer:{command:'python -m http.server 8787 --directory out',port:8787,reuseExistingServer:!process.env.CI},reporter:'list'});
